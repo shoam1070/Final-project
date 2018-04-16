@@ -1,4 +1,4 @@
-/**
+/** nir nini
  * Adaptive Huffman
  *
  * Author: Djuned Fernando Djusdek
